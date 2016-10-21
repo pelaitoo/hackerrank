@@ -14,5 +14,8 @@ public class Solution {
                 arr[arr_i][arr_j] = in.nextInt();
             }
         }
+
+
+
     }
 }
